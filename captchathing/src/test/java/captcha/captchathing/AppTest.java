@@ -41,10 +41,7 @@ driver.findElement(By.id("Main_txtCaptcha")).sendKeys(FinalText);
 
 driver.close();
 
-   //Clicking on the 'login' button
-   
-   
-   //Closing the driver
+  
    
 		
 	}
